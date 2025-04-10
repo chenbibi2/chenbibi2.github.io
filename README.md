@@ -7,7 +7,8 @@ I am a PhD student from Prof.Liran Shlush's lab. You can see the lab page by pre
 Finding how a mutation in a gene that affects the splicing of preRNA will lead to impaired differentiation of the hematopoietic system.
 
 This is the process for hematopoietic stem cell differentiation:
-![image](https://github.com/user-attachments/assets/bae4f823-c6d5-4f87-9487-c686e9a06972)
+![image](https://github.com/user-attachments/assets/aff1a326-fb43-4b60-a21c-2296a4b72da9)
+
 
 --- 
 ## What I would like to get from this course is
