@@ -11,6 +11,8 @@ You can see the lab page by pressing [here](https://www.weizmann.ac.il/immunolog
 Finding how a mutation in a gene that affects the splicing of preRNA will lead to impaired differentiation of the hematopoietic system.
 
 This is the process for hematopoietic stem cell differentiation:
+
+
 <img src="https://github.com/user-attachments/assets/aff1a326-fb43-4b60-a21c-2296a4b72da9" style="width: 400px; height: auto;">
 
 --- 
