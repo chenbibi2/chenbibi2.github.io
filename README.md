@@ -14,6 +14,7 @@ This is the process for hematopoietic stem cell differentiation:
 
 
 <img src="https://github.com/user-attachments/assets/aff1a326-fb43-4b60-a21c-2296a4b72da9" style="width: 400px; height: auto;">
+In this image, you can see the differentiation of the hematopoietic system  
 
 --- 
 ## What I would like to get from this course is
