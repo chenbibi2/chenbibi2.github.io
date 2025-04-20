@@ -1,10 +1,9 @@
 body {
-  background-image: url('images/banner.jpg'); (https://unsplash.com/photos/a-blurry-image-of-a-blue-and-green-background-5Q6yZN8ckuY?utm_content=creditShareLink&utm_medium=referral&utm_source=unsplash)
+  background-image: url('https://images.unsplash.com/photo-1551963831-b3b1ca40c98e?ixlib=rb-1.2.1&q=80&w=1080&fit=max');
   background-size: cover;     
   background-repeat: no-repeat;
   background-position: center center;
 }
-
 # Welcome to my website 
 
 
