@@ -1,4 +1,6 @@
-<img src="banner.png" alt="Banner" width="100%">
+body {
+  background: [(https://unsplash.com/photos/a-blurry-image-of-a-blue-and-green-background-5Q6yZN8ckuY?utm_content=creditShareLink&utm_medium=referral&utm_source=unsplash)]
+  }
 
 
 # Welcome to my website 
